@@ -18,8 +18,7 @@ Esctructura del directorio de distribución:
 
 ```bash
 TasksManager/
-├── Dependencies/
-│   └── requirements.txt    # dependencias a instalar
+├── requirements.txt        # dependencias a instalar
 ├── Resources/
 │   └── (.png)              # recursos para el repo
 ├── main.py                 # source code
@@ -89,7 +88,7 @@ Es recomendable usar un entorno virtual para instalar las dependencias del proye
 Instala las dependencias (si no las tienes en tu .venv) desde el archivo ubicado en el directorio de distribución usando:
 
 ```bash
-pip install -r Dependencies/requirements.txt
+pip install -r requirements.txt
 ```
 
 > Asegúrate de estar en el directorio raíz del proyecto
