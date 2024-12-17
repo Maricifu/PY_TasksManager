@@ -2,16 +2,16 @@
 
 Interfaz del gestor de tareas:
 
-![Task Manager Interface 1](URL_de_la_imagen)
+![Task Manager Interface 1](https://github.com/Maricifu/PY_TasksManager/blob/main/Resources/image1.png?raw=true)
 > Imagen de referencia de la interfaz para la función principal del gestor de tareas
 
-![Task Manager Interface 2](URL_de_la_imagen)
+![Task Manager Interface 2](https://github.com/Maricifu/PY_TasksManager/blob/main/Resources/image2.png?raw=true)
 > Imagen de referencia de la interfaz de la función de listar tareas
 
-![Task Manager Interface 3](URL_de_la_imagen)
+![Task Manager Interface 3](https://github.com/Maricifu/PY_TasksManager/blob/main/Resources/image3.png?raw=true)
 > Imagen de referencia de la interfaz de la función para marcar, editar y eliminar tarea
 
-![Task Manager Interface 4](URL_de_la_imagen)
+![Task Manager Interface 4](https://github.com/Maricifu/PY_TasksManager/blob/main/Resources/image4.png?raw=true)
 > Imagen de referencia de la interfaz para eliminar tareas completadas, exportar tareas creadas e importar tareas en formato .JSON
 
 Esctructura del directorio de distribución:
